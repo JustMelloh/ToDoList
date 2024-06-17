@@ -15,18 +15,6 @@ public class UserClass {
         this.loggedIn = false;
     }
 
-    /* Method to return the username of the user */
-
-    public String getUsername() {
-        return this.username;
-    }
-
-    /* Method to return the password of the user */
-
-    public String getPassword() {
-        return this.password;
-    }
-
     /* Method to return the user as a string */
 
     public String toString() {
